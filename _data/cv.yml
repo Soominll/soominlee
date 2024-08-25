@@ -1,19 +1,17 @@
 - title: General Information
   type: map
   contents:
-    - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
+    - name: Soo Min Lee
+      value: Soo Min Lee
     - name: Languages
-      value: English, German
+      value: English (native), Korean (native)
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: Master's degree
+      institution: Korea Advanced Institute of Science and Technology
+      year: 2022
       description:
         - Description 1.
         - Description 2.
@@ -21,12 +19,16 @@
           contents:
             - Sub-description 1.
             - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+    - title: Bachelor's degree
+      institution: Handong University
+      year: 2020
       description:
         - Description 1.
         - Description 2.
+        - title: Description 3.
+          contents:
+            - Sub-description 1.
+            - Sub-description 2.
 
 - title: Experience
   type: time_table
