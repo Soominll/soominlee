@@ -13,6 +13,8 @@ profile:
     <p>I enjoy playing Tennis, singing, and doing weight training.</p>
     <p>Seoul, South Korea</p>
 
+cv_pdf: example_pdf.pdf
+
 news: true # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
