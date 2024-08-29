@@ -50,7 +50,7 @@
     {
       "institution": "Handong Global University (HGU)",
       "location": "Pohang, South Korea",
-      "url": "https://www.uzh.ch/",
+      "url": "",
       "area": "Double major in Computer Science & Life Science",
       "studyType": "B.S. - Summa cum laude, Early graduation",
       "startDate": "2017-03-01",
@@ -63,11 +63,11 @@
       "location": "Rochester, NY, U.S.A.",
       "url": "",
       "area": "",
-      "studyType": "Studied abroad for high school in the United States",
+      "studyType": "High school",
       "startDate": "",
       "endDate": "2016-06-01",
       "score": "10",
-      "courses": [""]
+      "courses": ["Studied abroad for high school in the United States"]
     }
   ],
   "awards": [
