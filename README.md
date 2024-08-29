@@ -7,9 +7,10 @@
 3. If deploy workflow is successfully completed, the changes are reflected in the github website.
 
 
-Common Error.
+Notes.
 - resume.json should be correctly written, otherwise the values for the CV will be set with default values, not from resume.json.
 - profile image can be found in assets/img/ folder.
+- modified `_layouts/about.liquid`, added divider line, texts, CV components in this page.
 
 ```
 
