@@ -1,4 +1,21 @@
-# al-folio
+# Soo's Personal Website based on al-folio
+
+## Workflow
+```
+1. Commit&Push changes to main branch.
+2. Github workflow runs all related workflows such as deploy.yml.
+3. If deploy workflow is successfully completed, the changes are reflected in the github website.
+
+
+Common Error.
+- resume.json should be correctly written, otherwise the values for the CV will be set with default values, not from resume.json.
+- profile image can be found in assets/img/ folder.
+
+```
+
+
+
+<hr/>
 
 <div align="center">
 
