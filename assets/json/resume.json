@@ -24,38 +24,50 @@
   },
   "work": [
     {
-      "name": "Bioengineering Software Engineer",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
+      "name": "Inocras .Inc",
+      "position": "Computational Genomics center – Pipeline Development team",
+      "url": "https://inocras.com",
+      "startDate": "2023-03-01",
+      "endDate": "",
+      "summary": "In my current role, I work extensively on `structural variant (SV) calling`, involving implementation of various SV callers, designing mutation refinement algorithms, improving sensitivity in detecting complex genomic alterations. My work also encompasses actionable findings in cancer genomics, where I contribute to annotating clinical relevance for various genomic alterations such as CNVs, SVs, SNVs, and INDELs, facilitating the mapping of disease terms and refining clinical trial data. Additionally, I am leading AI-driven projects to develop deep learning-based mutation callers.",
+      "highlights": ["Genomics"]
     }
   ],
   "volunteer": [
-    {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
-    }
   ],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
-      "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
+      "institution": "Korea Advanced Institute of Science and Technology (KAIST)",
+      "location": "Daejoen, South Korea",
+      "url": "https://www.kaist.ac.kr/",
+      "area": "Bio & Brain Engineering",
+      "studyType": "M.S.",
+      "startDate": "2020-09-01",
+      "endDate": "2022-09-01",
       "score": "10",
-      "courses": ["Theory of Relativity"]
+      "courses": ["Graph Machine Learning and Mining", "Genome Bioinformatics", "Data Mining"]
+    },
+    {
+      "institution": "Handong Global University (HGU)",
+      "location": "Pohang, South Korea",
+      "url": "https://www.uzh.ch/",
+      "area": "Double major in Computer Science & Life Science",
+      "studyType": "B.S. - Summa cum laude, Early graduation",
+      "startDate": "2017-03-01",
+      "endDate": "2020-06-01",
+      "score": "20",
+      "courses": [""]
+    }
+    {
+      "institution": "Allendale Columbia School",
+      "location": "Rochester, NY, U.S.A.",
+      "url": "",
+      "area": "",
+      "studyType": "Studied abroad for high school in the United States",
+      "startDate": "",
+      "endDate": "2016-06-01",
+      "score": "10",
+      "courses": [""]
     }
   ],
   "awards": [
