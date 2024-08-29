@@ -25,8 +25,9 @@ Currently, I serve as part of the Pipeline Development team at <a href='https://
 
 My research background includes the <b>development of computational methods to combat drug resistance in cancer</b> using `generative adversarial networks (GANs)` and `graph neural networks (GNNs)` ([link to my paper](https://pubmed.ncbi.nlm.nih.gov/38034356/)). My hands-on laboratory experience, combined with technical proficiency in Python, R, Java, and C++, equips me to tackle complex challenges in genomics and contribute to advancements in human health.
 
-My academic achievements include top honors in Life Science and multiple academic excellence scholarships, reflecting my commitment to excellence in research.
-Fluent in both Korean and English, I excel in collaborative, interdisciplinary environments. 
 My primary interests lie in precision medicine, cancer genomics, and drug discovery, where I strive to make significant contributions through innovative research and technology development.
+My academic achievements include top honors in Life Science and multiple academic excellence scholarships.
+Fluent in both Korean and English, I excel in collaborative, interdisciplinary environments. 
+
 
 <!-- Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them. -->
