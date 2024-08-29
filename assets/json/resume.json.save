@@ -5,8 +5,8 @@
     "image": "",
     "email": "lsm46147570@gmail.com",
     "phone": "",
-    "url": "https://bit.ly/Soo_Min_Lee",
-    "summary": "",
+    "url": "https://soominll.github.io/soominlee_AI_BIO/",
+    "summary": "A bioinformatics software engineer in Genome Insight. Passionate in AI and Bioinformatics.",
     "location": {
       "address": "291 Daehak-ro, Yuseong-gu",
       "postalCode": "34141",
@@ -16,7 +16,7 @@
     },
     "profiles": [
       {
-        "network": "Linkedin",
+        "network": "Twitter",
         "username": "AlbertEinstein",
         "url": "https://twitter.com/AlbertEinstein"
       }
@@ -24,7 +24,7 @@
   },
   "work": [
     {
-      "name": "Bioengineering Software Engineer",
+      "name": "Institute for Advanced Study, Princeton University",
       "position": "Professor of Theoretical Physics",
       "url": "https://example.com",
       "startDate": "1933-01-01",
