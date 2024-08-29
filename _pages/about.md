@@ -9,7 +9,7 @@ profile:
   image: placeholder.png
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>While I am not doing Research</p>
+    <p>When I'm not doing research</p>
     <p>You may find me playing Tennis, singing, weight training, hanging out with Jack.</p>
     <p>Seoul, South Korea</p>
 
