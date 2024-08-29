@@ -10,7 +10,7 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>While I am not doing Research</p>
-    <p>I enjoy playing Tennis, singing, and doing weight training.</p>
+    <p>You may find me playing Tennis, singing, weight training, hanging out with Jack.</p>
     <p>Seoul, South Korea</p>
 
 cv_pdf: example_pdf.pdf
@@ -22,8 +22,6 @@ social: false # includes social icons at the bottom of the page
 
 I am a <b>Computational Genomics Specialist</b> with a strong foundation in `bioinformatics` and `Deep Learning`, earned through an M.S. in Bio and Brain Engineering from KAIST and a B.S. in Computer Science and Life Science from Handong Global University. 
 Currently, I serve as part of the Pipeline Development team at <a href='https://inocras.com/' target="_blank">Inocras</a>, where I focus on developing and refining advanced computational pipelines for both somatic and germline genomic analysis.
-
-In my current role, I work extensively on `structural variant (SV) calling`, involving implementation of various SV callers, designing mutation refinement algorithms, improving sensitivity in detecting complex genomic alterations. My work also encompasses actionable findings in cancer genomics, where I contribute to annotating clinical relevance for various genomic alterations such as CNVs, SVs, SNVs, and INDELs, facilitating the mapping of disease terms and refining clinical trial data. Additionally, I am leading AI-driven projects to develop deep learning-based mutation callers.
 
 My research background includes the development of computational methods to combat drug resistance in cancer using `generative adversarial networks (GANs)` and `graph neural networks (GNNs)` ([link to paper](https://pubmed.ncbi.nlm.nih.gov/38034356/)). My hands-on laboratory experience, combined with technical proficiency in Python, R, Java, and C++, equips me to tackle complex challenges in genomics and contribute to advancements in human health.
 
