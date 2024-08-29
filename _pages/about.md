@@ -2,7 +2,7 @@
 layout: about
 title: about me
 permalink: /
-subtitle: Bioengineering Software Engineer @ <a href='https://inocras.com/' target="_blank">Inocras. Inc</a>
+subtitle: Bioengineering Software Engineer @ <a href='https://inocras.com/' target="_blank">Inocras. Inc</a> | <a href='https://www.linkedin.com/in/soominll/' target="_blank">Linkedin</a>
 
 profile:
   align: right
