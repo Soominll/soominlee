@@ -6,7 +6,7 @@ subtitle: Bioengineering Software Engineer @ <a href='https://inocras.com/' targ
 
 profile:
   align: right
-  image: placeholder.png
+  image: profile_sm.png
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>When I'm not doing research</p>
