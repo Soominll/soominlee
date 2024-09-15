@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://Soominll.github.io/soominlee_AI_BIO/sitemap.xml
+Sitemap: https://Soominll.github.io/soominlee/sitemap.xml
