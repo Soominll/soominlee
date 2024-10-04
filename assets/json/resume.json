@@ -93,7 +93,7 @@
       "summary": ""
     },
     {
-      "title": "Excellence prize at Software Festival held by Handong University;",
+      "title": "Excellence prize at Software Festival held by Handong University",
       "date": "2019",
       "awarder": "",
       "url": "",
@@ -130,18 +130,6 @@
       ]
     },
     {
-      "name": "Programming languages",
-      "level": "Master",
-      "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "Python",
-        "R",
-        "Java",
-        "C",
-        "C++"
-      ]
-    },
-    {
       "name": "Laboratory skills",
       "level": "Master",
       "icon": "fa-solid fa-hashtag",
@@ -156,18 +144,30 @@
         "transfection",
         "viral transduction"
       ]
+    },
+    {
+      "name": "Programming languages",
+      "level": "Master",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "Python",
+        "R",
+        "Java",
+        "C",
+        "C++"
+      ]
     }
   ],
   "languages": [
     {
       "language": "English",
       "fluency": "Full professional proficiency",
-      "icon": ""
+      "icon": "fa-solid fa-hashtag"
     },
     {
       "language": "Korean",
       "fluency": "Native fluency",
-      "icon": ""
+      "icon": "fa-solid fa-hashtag"
     }
   ],
   "interests": [
