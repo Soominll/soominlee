@@ -198,12 +198,26 @@
   ],
   "projects": [
     {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
-      "url": "https://example.com"
+      "name": "Deep learning untangles the resistance mechanism of p53 reactivator in lung cancer cells",
+      "summary": "Master Thesis & Journal publication & KOR/US patent",
+      "highlights": ["Problem: Though TP53 mutations in lung cancer make p53 activator treatments essential, drug resistance limits their effectiveness.",
+      "Contributions: Developed a novel computational approach using Generative adversarial networks and Graph neural networks to identify drug resistance mechanisms and therapeutic targets. Conducted in vitro validation, confirming the therapeutic potential of the identified gene targets.",
+      "Results: Identified a key biomarker linked to p53 resistance, leading to a Korean/US patent application and publication in Cell iScience." 
+      ],
+      "startDate": "2020-07-01",
+      "endDate": "2023-02-01",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38034356/"
+    },
+    {
+      "name": "A systems biological study to investigate the fundamental principle and overcoming method of adaptive resistance to targeted anti-cancer therapy’",
+      "summary": "",
+      "highlights": ["Problem: Though TP53 mutations in lung cancer make p53 activator treatments essential, drug resistance limits their effectiveness.",
+      "Contributions: Developed a novel computational approach using Generative adversarial networks and Graph neural networks to identify drug resistance mechanisms and therapeutic targets. Conducted in vitro validation, confirming the therapeutic potential of the identified gene targets.",
+      "Results: Identified a key biomarker linked to p53 resistance, leading to a Korean/US patent application and publication in Cell iScience." 
+      ],
+      "startDate": "2020-07-01",
+      "endDate": "2023-02-01",
+      "url": ""
     }
   ]
 }
