@@ -199,7 +199,7 @@
   "Research Experience": [
     {
       "name": "Deep learning untangles the resistance mechanism of p53 reactivator in lung cancer cells",
-      "summary": "Master Thesis & Journal publication & KOR/US patent",
+      "summary": "at Korea Advanced Institute of Science and Technology (KAIST) / Master Thesis & Journal publication & KOR/US patent",
       "highlights": ["Problem: Though TP53 mutations in lung cancer make p53 activator treatments essential, drug resistance limits their effectiveness.",
       "Contributions: Developed a novel computational approach using Generative adversarial networks and Graph neural networks to identify drug resistance mechanisms and therapeutic targets. Conducted in vitro validation, confirming the therapeutic potential of the identified gene targets.",
       "Results: Identified a key biomarker linked to p53 resistance, leading to a Korean/US patent application and publication in Cell iScience." 
@@ -209,14 +209,47 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/38034356/"
     },
     {
-      "name": "A systems biological study to investigate the fundamental principle and overcoming method of adaptive resistance to targeted anti-cancer therapy’",
-      "summary": "",
-      "highlights": ["Problem: Though TP53 mutations in lung cancer make p53 activator treatments essential, drug resistance limits their effectiveness.",
-      "Contributions: Developed a novel computational approach using Generative adversarial networks and Graph neural networks to identify drug resistance mechanisms and therapeutic targets. Conducted in vitro validation, confirming the therapeutic potential of the identified gene targets.",
-      "Results: Identified a key biomarker linked to p53 resistance, leading to a Korean/US patent application and publication in Cell iScience." 
+      "name": "A systems biological study to investigate the fundamental principle and overcoming method of adaptive resistance to targeted anti-cancer therapy",
+      "summary": "at Korea Advanced Institute of Science and Technology (KAIST)",
+      "highlights": ["Problem: Overcoming the limitations of colon cancer treatment requires understanding adaptive resistance to targeted therapies, like MEK inhibitors, and developing strategies to combat it.",
+      "Contributions: Performed drug concentration and timepoint screenings, established MEK inhibitor-resistant colon cancer cell lines, analyzed gene expression changes in key pathways, and produced RNA sequencing data.",
+      "Results: Discovered significant resistance-related genes, supporting model construction and contributing to securing $300K in funding from the National Research Foundation of Korea." 
       ],
       "startDate": "2020-07-01",
       "endDate": "2023-02-01",
+      "url": ""
+    },
+    {
+      "name": "Identification of Lifestyle Factors correlated with Gastroesophageal Reflux Disease",
+      "summary": "at Handong Global University (HGU) / Bachelor Thesis",
+      "highlights": ["Problem: The increasing global incidence of Gastroesophageal Reflux Disease (GERD) is associated with unhealthy lifestyles, making it crucial to identify contributing lifestyle factors.",
+      "Contributions: Collaborated with a physician from Seoul National University Hospital (SNUH) to analyze GERD risk factors using logistic regression, hierarchical clustering, and subgroup analysis.",
+      "Results: Identified lifestyle factors contributing to GERD risk, which were presented in my bachelor’s thesis." 
+      ],
+      "startDate": "2019-01-01",
+      "endDate": "2020-06-01",
+      "url": ""
+    },
+    {
+      "name": "Diabetic Status Monitoring and Prediction using Electronic Health Record and Clinical Data",
+      "summary": "at Handong Global University (HGU)",
+      "highlights": ["Problem: Continuous monitoring of diabetes is essential, but challenging for patients to manage on their own, making the development of predictive tools important.",
+      "Contributions: Developed predictive models for short-term and long-term blood glucose levels using deep neural networks and various regression methods (ridge, lasso, and stepwise multivariate). Analyzed clinical data from SNUH and the GWAS catalog.",
+      "Results: Revealed key variables influencing blood glucose prediction, leading to a scholarship award through the Capstone project submission." 
+      ],
+      "startDate": "2019-01-01",
+      "endDate": "2020-06-01",
+      "url": ""
+    },
+    {
+      "name": "Bio-synergy: Metabolites Data Analysis",
+      "summary": "at Seoul National University (SNU)",
+      "highlights": ["Problem: Metabolites are crucial for type 2 diabetic status prediction, but accurate predictions depend on effective data preprocessing and appropriate model selection.",
+      "Contributions: Preprocessed LC/MS-based metabolite data from the Korea Basic Science Institute using Combat and quantile normalization to reduce non-biological variation. Improved a diabetes prediction model by applying elastic net regression.",
+      "Results: Enhanced prediction accuracy and gained experience in handling metabolite data." 
+      ],
+      "startDate": "2020-01-01",
+      "endDate": "2020-02-01",
       "url": ""
     }
   ]

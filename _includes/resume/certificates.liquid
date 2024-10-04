@@ -18,7 +18,7 @@
               {% assign i = i | plus: 1 %}
             {% endfor %}
             <td colspan="{{ i }}" class="list-group-category">
-              {% if content.url %}
+              {% if content.url and content.url != blank %}
                 <a href="{{ content.url | default: # }}">{{ content.name }}</a>
               {% else %}
                 {{ content.name }}
