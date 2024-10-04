@@ -100,15 +100,6 @@
       "summary": "Convergence Research Contest & SW Problem-Solving Idea Contest"
     }
   ],
-  "certificates": [
-    {
-      "name": "Big Data Analyst",
-      "date": "",
-      "issuer": "Ministry of Science and ICT / Statistics Korea",
-      "url": "",
-      "icon": "fa-solid fa-location-dot"
-    }
-  ],
   "publications": [
     {
       "name": "Deep learning untangles the resistance mechanism of p53 reactivator in lung cancer cells",
@@ -118,85 +109,7 @@
       "summary": "Proposed a novel combinatorial target and computational method to overcome drug resistance to p53 activator in lung cancer using GAN and GNN."
     }
   ],
-  "skills": [
-    {
-      "name": "Deep learning",
-      "level": "Master",
-      "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "Generative Adversarial Network",
-        "Graph Neural Network",
-        "Deep CNN model"
-      ]
-    },
-    {
-      "name": "Laboratory skills",
-      "level": "Master",
-      "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "Cell culture",
-        "DNA/RNA extraction and purification",
-        "Recombinant DNA technology",
-        "PCR",
-        "qRT-PCR",
-        "Western blotting",
-        "gel electrophoresis",
-        "transfection",
-        "viral transduction"
-      ]
-    },
-    {
-      "name": "Programming languages",
-      "level": "Master",
-      "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "Python",
-        "R",
-        "Java",
-        "C",
-        "C++"
-      ]
-    }
-  ],
-  "languages": [
-    {
-      "language": "English",
-      "fluency": "Full professional proficiency",
-      "icon": "fa-solid fa-hashtag"
-    },
-    {
-      "language": "Korean",
-      "fluency": "Native fluency",
-      "icon": "fa-solid fa-hashtag"
-    }
-  ],
-  "interests": [
-    {
-      "name": "Personalized Medicine",
-      "icon": "fa-solid fa-tag"
-    },
-    {
-      "name": "Machine Learning",
-      "icon": "fa-solid fa-tag"
-    },
-    {
-      "name": "Bioinformatics",
-      "icon": "fa-solid fa-tag"
-    },
-    {
-      "name": "Multi-omics",
-      "icon": "fa-solid fa-tag"
-    },
-    {
-      "name": "Drug Discovery",
-      "icon": "fa-solid fa-tag"
-    },
-    {
-      "name": "Cancer",
-      "icon": "fa-solid fa-tag"
-    }
-  ],
-  "research experience": [
+  "projects": [
     {
       "name": "Deep learning untangles the resistance mechanism of p53 reactivator in lung cancer cells",
       "summary": "at Korea Advanced Institute of Science and Technology (KAIST) / Master Thesis & Journal publication & KOR/US patent",
@@ -251,6 +164,93 @@
       "startDate": "2020-01-01",
       "endDate": "2020-02-01",
       "url": ""
+    }
+  ],
+  "skills": [
+    {
+      "name": "Deep learning",
+      "level": "Master",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "Generative Adversarial Network",
+        "Graph Neural Network",
+        "Deep CNN model"
+      ]
+    },
+    {
+      "name": "Laboratory skills",
+      "level": "Master",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "Cell culture",
+        "DNA/RNA extraction and purification",
+        "Recombinant DNA technology",
+        "PCR",
+        "qRT-PCR",
+        "Western blotting",
+        "gel electrophoresis",
+        "transfection",
+        "viral transduction"
+      ]
+    },
+    {
+      "name": "Programming languages",
+      "level": "Master",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "Python",
+        "R",
+        "Java",
+        "C",
+        "C++"
+      ]
+    }
+  ],
+  "certificates": [
+    {
+      "name": "Big Data Analyst",
+      "date": "",
+      "issuer": "Ministry of Science and ICT / Statistics Korea",
+      "url": "",
+      "icon": "fa-solid fa-location-dot"
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Full professional proficiency",
+      "icon": "fa-solid fa-hashtag"
+    },
+    {
+      "language": "Korean",
+      "fluency": "Native fluency",
+      "icon": "fa-solid fa-hashtag"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Personalized Medicine",
+      "icon": "fa-solid fa-tag"
+    },
+    {
+      "name": "Machine Learning",
+      "icon": "fa-solid fa-tag"
+    },
+    {
+      "name": "Bioinformatics",
+      "icon": "fa-solid fa-tag"
+    },
+    {
+      "name": "Multi-omics",
+      "icon": "fa-solid fa-tag"
+    },
+    {
+      "name": "Drug Discovery",
+      "icon": "fa-solid fa-tag"
+    },
+    {
+      "name": "Cancer",
+      "icon": "fa-solid fa-tag"
     }
   ]
 }
