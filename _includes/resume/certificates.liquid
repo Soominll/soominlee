@@ -21,7 +21,7 @@
               {% if content.url and content.url != blank %}
                 <a href="{{ content.url | default: # }}">{{ content.name }}</a>
               {% else %}
-                {{ content.name }}
+                <span style="color: #b509ac;">{{ content.name }}</span>
               {% endif %}
               
             </td>
