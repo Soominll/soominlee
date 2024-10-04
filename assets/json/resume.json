@@ -38,7 +38,7 @@
   "education": [
     {
       "institution": "Korea Advanced Institute of Science and Technology (KAIST)",
-      "location": "Daejoen, South Korea",
+      "location": "Daejeon, South Korea",
       "url": "https://www.kaist.ac.kr/",
       "area": "Bio & Brain Engineering",
       "studyType": "M.S.",
@@ -196,7 +196,7 @@
       "icon": "fa-solid fa-tag"
     }
   ],
-  "Research Experience": [
+  "research experience": [
     {
       "name": "Deep learning untangles the resistance mechanism of p53 reactivator in lung cancer cells",
       "summary": "at Korea Advanced Institute of Science and Technology (KAIST) / Master Thesis & Journal publication & KOR/US patent",

@@ -18,7 +18,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 
-I am a <b>Computational Genomics Specialist</b> with a strong foundation in `bioinformatics` and `deep learning`. Currently, I am part of the Pipeline Development team at <a href='https://inocras.com/' target="_blank">Inocras</a>, focusing on developing and refining advanced computational pipelines for both somatic and germline genomic analysis.
+I am a <b>Bioinformatics Scientist</b> with a strong foundation in `multiomics` and `deep learning`. Currently, I am part of the Pipeline Development team at <a href='https://inocras.com/' target="_blank">Inocras</a>, focusing on developing and refining advanced computational pipelines for both somatic and germline genomic analysis.
 
 I earned an M.S. in Bio and Brain Engineering from Korea Advanced Institute of Science and Technology (KAIST) and a B.S. in Computer Science and Life Science from Handong Global University (HGU), where I graduated summa cum laude. 
 
