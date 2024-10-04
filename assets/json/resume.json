@@ -134,7 +134,7 @@
     },
     {
       "name": "Identification of Lifestyle Factors correlated with Gastroesophageal Reflux Disease",
-      "summary": "at Handong Global University (HGU) <br/> Bachelor Thesis",
+      "summary": "at Handong Global University (HGU) / Bachelor Thesis",
       "highlights": ["Problem: The increasing global incidence of Gastroesophageal Reflux Disease (GERD) is associated with unhealthy lifestyles, making it crucial to identify contributing lifestyle factors.",
       "Contributions: Collaborated with a physician from Seoul National University Hospital (SNUH) to analyze GERD risk factors using logistic regression, hierarchical clustering, and subgroup analysis.",
       "Results: Identified lifestyle factors contributing to GERD risk, which were presented in my bachelor’s thesis." 
@@ -168,13 +168,15 @@
   ],
   "skills": [
     {
-      "name": "Deep learning",
+      "name": "Programming languages",
       "level": "Master",
       "icon": "fa-solid fa-hashtag",
       "keywords": [
-        "Generative Adversarial Network",
-        "Graph Neural Network",
-        "Deep CNN model"
+        "Python",
+        "R",
+        "Java",
+        "C",
+        "C++"
       ]
     },
     {
@@ -194,15 +196,13 @@
       ]
     },
     {
-      "name": "Programming languages",
+      "name": "Deep learning",
       "level": "Master",
       "icon": "fa-solid fa-hashtag",
       "keywords": [
-        "Python",
-        "R",
-        "Java",
-        "C",
-        "C++"
+        "Generative Adversarial Network",
+        "Graph Neural Network",
+        "Deep CNN model"
       ]
     }
   ],
