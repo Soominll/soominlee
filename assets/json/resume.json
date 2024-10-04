@@ -29,8 +29,8 @@
       "url": "https://inocras.com",
       "startDate": "2023-03-01",
       "endDate": "",
-      "summary": "In my current role, I work extensively on `structural variant (SV) calling`, involving implementation of various SV callers, designing mutation refinement algorithms, improving sensitivity in detecting complex genomic alterations. My work also encompasses actionable findings in cancer genomics, where I contribute to annotating clinical relevance for various genomic alterations such as CNVs, SVs, SNVs, and INDELs, facilitating the mapping of disease terms and refining clinical trial data. Additionally, I am leading AI-driven projects to develop deep learning-based mutation callers.",
-      "highlights": ["Genomics"]
+      "summary": "In my current role, I focus on `structural variant (SV) calling`, implementing and optimizing SV callers, applying mutation refinements, and enhancing sensitivity in detecting complex genomic alterations. This has led to more accurate variant identification and a reduction in SV calls by up to 78%. I also work on actionable findings in cancer genomics, integrating `The Clinical Knowledgebase (CKB)` into our somatic pipeline to improve data accessibility for actionable drugs, on-label drug recommendations, and clinical trial matching. Additionally, I lead AI-driven projects developing `deep learning-based mutation callers` to enhance mutation detection accuracy and efficiency.",
+      "highlights": ["Genomics", "Whole genome sequencing", "Mutation detection", "Deep learning", "Actionable findings"]
     }
   ],
   "volunteer": [
@@ -43,7 +43,7 @@
       "area": "Bio & Brain Engineering",
       "studyType": "M.S.",
       "startDate": "2020-09-01",
-      "endDate": "2022-09-01",
+      "endDate": "2022-08-01",
       "score": "10",
       "courses": ["Graph Machine Learning and Mining", "Genome Bioinformatics", "Data Mining"]
     },
@@ -56,7 +56,7 @@
       "startDate": "2017-03-01",
       "endDate": "2020-06-01",
       "score": "20",
-      "courses": [""]
+      "courses": ["Applied Genomics", "Biodata Analysis", "Molecular Biology", "Machine Learning"]
     },
     {
       "institution": "Allendale Columbia School",
@@ -64,7 +64,7 @@
       "url": "",
       "area": "",
       "studyType": "High school",
-      "startDate": "",
+      "startDate": "2013-01-01",
       "endDate": "2016-06-01",
       "score": "10",
       "courses": ["Studied abroad for high school in the United States"]
@@ -72,21 +72,39 @@
   ],
   "awards": [
     {
-      "title": "Top honor in Life science from Handong Global University (1%)",
+      "title": "Top honor in Life Science from Handong Global University (1%)",
       "date": "2020",
       "awarder": "",
       "url": "",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
+      "summary": ""
     },
     {
-      "title": "Academic Excellence Scholarship for Seniors",
+      "title": "Academic Excellence Scholarship",
       "date": "2018,2019,2020",
       "awarder": "",
       "url": "",
       "summary": ""
+    },
+    {
+      "title": "Software Mileage Scholarship",
+      "date": "2020",
+      "awarder": "",
+      "url": "",
+      "summary": ""
+    },
+    {
+      "title": "Excellence prize at Software Festival held by Handong University;",
+      "date": "2019",
+      "awarder": "",
+      "url": "",
+      "summary": "Convergence Research Contest & SW Problem-Solving Idea Contest"
     }
   ],
   "certificates": [
+    {
+      "name": "Big Data Analyst",
+      "issued by": "Ministry of Science and ICT / Statistics Korea"
+    }
   ],
   "publications": [
     {
@@ -112,12 +130,12 @@
   "languages": [
     {
       "language": "English",
-      "fluency": "Native speaker",
+      "fluency": "Full professional proficiency",
       "icon": ""
     },
     {
       "language": "Korean",
-      "fluency": "Native speaker",
+      "fluency": "Native fluency",
       "icon": ""
     }
   ],
