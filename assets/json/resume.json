@@ -103,8 +103,11 @@
   "certificates": [
     {
       "name": "Big Data Analyst",
-      "issued by": "Ministry of Science and ICT / Statistics Korea"
-    }
+      "date": "",
+      "issuer": "Ministry of Science and ICT / Statistics Korea",
+      "url": "",
+      "icon": "fa-solid fa-location-dot"
+    },
   ],
   "publications": [
     {
@@ -125,6 +128,34 @@
         "Graph Neural Network",
         "Deep CNN model"
       ]
+    },
+    {
+      "name": "Programming languages",
+      "level": "Master",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "Python",
+        "R",
+        "Java",
+        "C",
+        "C++"
+      ]
+    },
+    {
+      "name": "Laboratory skills",
+      "level": "Master",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "Cell culture",
+        "DNA/RNA extraction and purification",
+        "Recombinant DNA technology",
+        "PCR",
+        "qRT-PCR",
+        "Western blotting",
+        "gel electrophoresis",
+        "transfection",
+        "viral transduction"
+      ]
     }
   ],
   "languages": [
@@ -141,26 +172,28 @@
   ],
   "interests": [
     {
-      "name": "AI based Drug Discovery",
-      "icon": "fa-solid fa-tag",
-      "keywords": [
-        "Generative AI",
-        "Drug Discovery",
-        "Drug resistance",
-        "Graph Neural Network"
-      ]
-    }
-  ],
-  "references": [
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-laptop",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
+      "name": "Personalized Medicine",
+      "icon": "fa-solid fa-tag"
     },
     {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-thumbtack",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
+      "name": "Machine Learning",
+      "icon": "fa-solid fa-tag"
+    },
+    {
+      "name": "Bioinformatics",
+      "icon": "fa-solid fa-tag"
+    },
+    {
+      "name": "Multi-omics",
+      "icon": "fa-solid fa-tag"
+    },
+    {
+      "name": "Drug Discovery",
+      "icon": "fa-solid fa-tag"
+    },
+    {
+      "name": "Cancer",
+      "icon": "fa-solid fa-tag"
     }
   ],
   "projects": [
