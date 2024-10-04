@@ -28,6 +28,7 @@ My primary interest lies in
   1. Developing `advanced computational tools`, including those using machine learning
   2. Integrating extensive `omics` datasets to capture cancer's complexity
   3. Deciphering cancer mechanisms to advance personalized medicine and more effective treatments.
+  
 I strive to make significant contributions through innovative research and technology development. Recognized with top honors in Life Science and multiple academic excellence scholarships, I am fluent in both Korean and English and excel in collaborative, interdisciplinary environments.
 
 
