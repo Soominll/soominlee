@@ -39,7 +39,7 @@
     {
       "institution": "Korea Advanced Institute of Science and Technology (KAIST)",
       "location": "Daejeon, South Korea",
-      "url": "https://www.kaist.ac.kr/",
+      "url": "",
       "area": "Bio & Brain Engineering",
       "studyType": "M.S.",
       "startDate": "2020-09-01",
@@ -111,7 +111,7 @@
   ],
   "projects": [
     {
-      "name": "Deep learning untangles the resistance mechanism of p53 reactivator in lung cancer cells",
+      "name": "A Generative Adversarial and Graph Neural Networks Approach to Tackle Drug Resistance",
       "summary": "at Korea Advanced Institute of Science and Technology (KAIST) / Master Thesis & Journal publication & KOR/US patent",
       "highlights": ["Problem: Though TP53 mutations in lung cancer make p53 activator treatments essential, drug resistance limits their effectiveness.",
       "Contributions: Developed a novel computational approach using Generative adversarial networks and Graph neural networks to identify drug resistance mechanisms and therapeutic targets. Conducted in vitro validation, confirming the therapeutic potential of the identified gene targets.",
