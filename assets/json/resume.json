@@ -29,7 +29,7 @@
       "url": "https://inocras.com",
       "startDate": "2023-03-01",
       "endDate": "",
-      "summary": "In my current role, I focus on `structural variant (SV) calling`, implementing and optimizing SV callers, applying mutation refinements, and enhancing sensitivity in detecting complex genomic alterations. This has led to more accurate variant identification and a reduction in SV calls by up to 78%. I also work on developing algorithms for actionable findings, integrating, refining, and optimizing data from `The Clinical Knowledgebase (CKB)` into our somatic pipeline to provide precise data for actionable drugs, on-label drug recommendations, and clinical trial matching. Additionally, I lead AI-driven projects developing `deep learning-based mutation callers` to enhance mutation detection accuracy and efficiency.",
+      "summary": "In my current role, I focus on `structural variant (SV) calling`, implementing and optimizing SV callers, applying mutation refinements, and enhancing sensitivity in detecting complex genomic alterations. This has led to more accurate variant identification and a reduction in SV calls by up to 78%. I also develop algorithms for actionable findings by integrating, refining, and optimizing data from `The Clinical Knowledgebase (CKB)` into our somatic pipeline to provide precise data for actionable drugs, on-label drug recommendations, and clinical trial matching. Additionally, I contribute to an AI-driven project developing `deep learning-based mutation callers` to enhance mutation detection accuracy and efficiency.",
       "highlights": ["Genomics", "Whole genome sequencing", "Mutation detection", "Deep learning", "Actionable findings"]
     }
   ],
