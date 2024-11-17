@@ -27,7 +27,7 @@ My research background includes <b>developing computational methods to combat dr
 My primary interest lies in
   1. Developing `advanced computational tools`, including those using machine learning
   2. Integrating extensive `omics` datasets to capture disease's complexity
-to decipher mechanisms of complex diseases to advance `personalized medicine` and more effective treatments.
+  3. Deciphering mechanisms of complex diseases to advance `personalized medicine` and more effective treatments.
 
 I strive to make significant contributions through innovative research and technology development. Recognized with top honors in Life Science and multiple academic excellence scholarships, I am fluent in both Korean and English and excel in collaborative, interdisciplinary environments.
 
