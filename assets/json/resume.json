@@ -42,7 +42,7 @@
       "url": "",
       "area": "Bio & Brain Engineering",
       "studyType": "M.S.",
-      "startDate": "2020-09-01",
+      "startDate": "2020-08-01",
       "endDate": "2022-08-01",
       "score": "10",
       "courses": ["Graph Machine Learning and Mining", "Genome Bioinformatics", "Data Mining"]
@@ -53,8 +53,8 @@
       "url": "",
       "area": "Double major in Computer Science & Life Science",
       "studyType": "B.S. - Summa cum laude, Early graduation",
-      "startDate": "2017-03-01",
-      "endDate": "2020-06-01",
+      "startDate": "2017-02-01",
+      "endDate": "2020-08-01",
       "score": "20",
       "courses": ["Applied Genomics", "Biodata Analysis", "Molecular Biology", "Machine Learning"]
     },
@@ -113,9 +113,9 @@
     {
       "name": "A Generative Adversarial and Graph Neural Networks Approach to Tackle Drug Resistance",
       "summary": "at Korea Advanced Institute of Science and Technology (KAIST) / Master Thesis & Journal publication & KOR/US patent",
-      "highlights": ["Problem: Though TP53 mutations in lung cancer make p53 activator treatments essential, drug resistance limits their effectiveness.",
+      "highlights": ["Problem: While the most common TP53 mutations in lung cancer make p53 activator treatments essential, drug resistance significantly limits their effectiveness.",
       "Contributions: Developed a novel computational approach using Generative adversarial networks and Graph neural networks to identify drug resistance mechanisms and therapeutic targets. Conducted in vitro validation, confirming the therapeutic potential of the identified gene targets.",
-      "Results: Identified a key biomarker linked to p53 resistance, leading to a Korean/US patent application and publication in Cell iScience." 
+      "Results: Identified a key pathway and biomarker associated with p53 resistance, leading to a Korean/US patent application and publication in Cell iScience." 
       ],
       "startDate": "2020-07-01",
       "endDate": "2023-02-01",
@@ -136,7 +136,7 @@
       "name": "Identification of Lifestyle Factors correlated with Gastroesophageal Reflux Disease",
       "summary": "at Handong Global University (HGU) / Bachelor Thesis",
       "highlights": ["Problem: The increasing global incidence of Gastroesophageal Reflux Disease (GERD) is associated with unhealthy lifestyles, making it crucial to identify contributing lifestyle factors.",
-      "Contributions: Collaborated with a physician from Seoul National University Hospital (SNUH) to analyze GERD risk factors using logistic regression, hierarchical clustering, and subgroup analysis.",
+      "Contributions: Collaborated with a physician from Seoul National University Hospital (SNUH) to analyze GERD risk factors using logistic regression, hierarchical clustering, and subgroup analysis on a large patient dataset.",
       "Results: Identified lifestyle factors contributing to GERD risk, which were presented in my bachelor’s thesis." 
       ],
       "startDate": "2019-01-01",
@@ -144,11 +144,11 @@
       "url": ""
     },
     {
-      "name": "Diabetic Status Monitoring and Prediction using Electronic Health Record and Clinical Data",
+      "name": "Diabetic Status Monitoring and Prediction using Clinical and Genomic Data",
       "summary": "at Handong Global University (HGU)",
-      "highlights": ["Problem: Continuous monitoring of diabetes is essential, but challenging for patients to manage on their own, making the development of predictive tools important.",
-      "Contributions: Developed predictive models for short-term and long-term blood glucose levels using deep neural networks and various regression methods (ridge, lasso, and stepwise multivariate). Analyzed clinical data from SNUH and the GWAS catalog.",
-      "Results: Revealed key variables influencing blood glucose prediction, leading to a scholarship award through the Capstone project submission." 
+      "highlights": ["Problem: Diabetes is a chronic disease that requires continuous monitoring, which can be difficult for patients to manage on their own, highlighting the need for robust predictive tools for prevention and management.",
+      "Contributions: Developed a blood glucose level forecasting model using deep neural networks. Analyzed clinical data from SNUH and genomics data from the GWAS catalog.",
+      "Results: Built an effective blood glucose prediction model with accurate results, leading to a scholarship award through the Capstone project submission." 
       ],
       "startDate": "2019-01-01",
       "endDate": "2020-06-01",
@@ -157,7 +157,7 @@
     {
       "name": "Bio-synergy: Metabolites Data Analysis",
       "summary": "at Seoul National University (SNU)",
-      "highlights": ["Problem: Metabolites are crucial for type 2 diabetic status prediction, but accurate predictions depend on effective data preprocessing and appropriate model selection.",
+      "highlights": ["Problem: Metabolites are crucial for predicting type 2 diabetic status, as diabetes is a metabolic disease; however, accurate predictions depend on effective data preprocessing and appropriate model selection.",
       "Contributions: Preprocessed LC/MS-based metabolite data from the Korea Basic Science Institute using Combat and quantile normalization to reduce non-biological variation. Improved a diabetes prediction model by applying elastic net regression.",
       "Results: Enhanced prediction accuracy and gained experience in handling metabolite data." 
       ],
@@ -229,11 +229,11 @@
   ],
   "interests": [
     {
-      "name": "Personalized Medicine",
+      "name": "Machine Learning",
       "icon": "fa-solid fa-tag"
     },
     {
-      "name": "Machine Learning",
+      "name": "Multiomics",
       "icon": "fa-solid fa-tag"
     },
     {
@@ -241,15 +241,11 @@
       "icon": "fa-solid fa-tag"
     },
     {
-      "name": "Multi-omics",
+      "name": "Personalized Medicine",
       "icon": "fa-solid fa-tag"
     },
     {
       "name": "Drug Discovery",
-      "icon": "fa-solid fa-tag"
-    },
-    {
-      "name": "Cancer",
       "icon": "fa-solid fa-tag"
     }
   ]
