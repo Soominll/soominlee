@@ -107,6 +107,42 @@
   ],
   "projects": [
     {
+      "name": "Understanding Early-Life Immunity",
+      "summary": "at La Jolla Institute for Immunology (LJI) & UC San Diego",
+      "highlights": [
+        "Problem: How do transferred maternal antibodies decay and shape an infant’s response to subsequent viral exposures and vaccinations?",
+        "Contributions: Formulated dynamics modeling on a longitudinal cohort (n = 245) tracked across an infant’s first two years of life following influenza vaccinations and infections.",
+        "Results & Impact: Formulated a personalized clinical algorithm to predict maternal antibody decay and optimize vaccination timing (under review at Nature Immunology)."
+      ],
+      "startDate": "2025-09-01",
+      "endDate": "",
+      "url": "https://www.medrxiv.org/content/10.64898/2026.05.04.26352413v1.full"
+    },
+    {
+      "name": "Optimizing Early-Life Diagnostics",
+      "summary": "at La Jolla Institute for Immunology (LJI) & UC San Diego",
+      "highlights": [
+        "Problem: How can we detect viral infections in early life with maximum accuracy while minimizing assay complexity and cost?",
+        "Approach & Contributions: Systematically evaluating multi-assay diagnostic frameworks, comparing hemagglutination inhibition (HAI) titers, multiplexed MSD IgG/IgA, anti-nucleoprotein (NP), and RT-PCR from nasal swabs.",
+        "Goal & Ongoing Work: Defining the most accurate, scalable, and cost-effective surveillance strategies for infant viral infections."
+      ],
+      "startDate": "2026-05-01",
+      "endDate": "",
+      "url": ""
+    },
+    {
+      "name": "Mapping Proteome-Wide Immunity",
+      "summary": "at La Jolla Institute for Immunology (LJI) & UC San Diego",
+      "highlights": [
+        "Problem: How do protective immune responses emerge in infancy across multiple viral exposures?",
+        "Approach & Contributions: Utilizing high-throughput phage display immunoprecipitation sequencing (PhIP-seq) to characterize peptide-level antibody specificity changes following viral vaccination and infection.",
+        "Goal & Ongoing Work: Uncovering key proteome-wide features and mechanisms dictating early-life immune trajectories and antibody durability."
+      ],
+      "startDate": "2026-08-01",
+      "endDate": "",
+      "url": ""
+    },
+    {
       "name": "A Generative Adversarial and Graph Neural Networks Approach to Tackle Drug Resistance",
       "summary": "at Korea Advanced Institute of Science and Technology (KAIST) / Master Thesis & Journal publication & KOR/US patent",
       "highlights": ["Problem: While the most common TP53 mutations in lung cancer make p53 activator treatments essential, drug resistance significantly limits their effectiveness.",
