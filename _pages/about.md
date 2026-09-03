@@ -18,7 +18,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 
-I am a <b>Bioinformatics Ph.D. student at UC San Diego</b> and a <b>Graduate Student Researcher</b> in the <a href='https://einav.lji.org/' target="_blank">Laboratory of Tal Einav</a> at the <a href='https://www.lji.org/' target="_blank">La Jolla Institute for Immunology (LJI)</a>. My research combines `immunology`, `machine learning`, and `multiomics` to map early-life immunity, antibody kinetics, and viral infection/vaccination dynamics.
+I am a <b>Bioinformatics Ph.D. student at UC San Diego</b> and a <b>Graduate Student Researcher</b> in the <a href='https://www.lji.org/labs/einav-lab/' target="_blank">Laboratory of Tal Einav</a> at the <a href='https://www.lji.org/' target="_blank">La Jolla Institute for Immunology (LJI)</a>. My research combines `immunology`, `machine learning`, and `multiomics` to map early-life immunity, antibody kinetics, and viral infection/vaccination dynamics.
 
 Prior to joining UCSD and LJI, I developed computational pipelines for precision oncology at <a href='https://inocras.com/' target="_blank">Inocras</a>, engineering structural variant algorithms, deep mutation callers, and Cancer Knowledgebase integration tools. I earned an M.S. in Bio and Brain Engineering from Korea Advanced Institute of Science and Technology (KAIST) and a B.S. in Computer Science and Life Science from Handong Global University (HGU), where I graduated summa cum laude.
 
