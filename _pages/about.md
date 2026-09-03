@@ -2,7 +2,7 @@
 layout: about
 title: about me
 permalink: /
-subtitle: Bioinformatics Software Engineer @ <a href='https://inocras.com/' target="_blank">Inocras. Inc</a> | <a href='https://www.linkedin.com/in/soominll/' target="_blank">Linkedin</a>
+subtitle: Ph.D. student @ <a href='https://bioinformatics.ucsd.edu/' target="_blank">UCSD</a> | <a href='https://www.linkedin.com/in/soominll/' target="_blank">Linkedin</a>
 
 profile:
   align: right
