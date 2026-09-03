@@ -37,6 +37,16 @@
   ],
   "education": [
     {
+      "institution": "University of California San Diego (UCSD)",
+      "location": "La Jolla, CA, U.S.A.",
+      "url": "https://bioinformatics.ucsd.edu/",
+      "area": "Bioinformatics and Systems Biology",
+      "studyType": "Ph.D.",
+      "startDate": "2025-09-01",
+      "endDate": "",
+      "courses": ["Machine Learning", "Immunology"]
+    },
+    {
       "institution": "Korea Advanced Institute of Science and Technology (KAIST)",
       "location": "Daejeon, South Korea",
       "url": "",
@@ -72,7 +82,7 @@
   ],
   "awards": [
     {
-      "title": "SPARK Award Finalist, La Jolla Institute for Immunology",
+      "title": "SPARK Award Finalist",
       "date": "2026",
       "awarder": "La Jolla Institute for Immunology",
       "url": "",
@@ -111,9 +121,9 @@
     {
       "name": "The Birth of Influenza Immunity: High-Resolution Antibody Dynamics Driven by Maternal Antibody Waning, Vaccinations, and Infections during the first Two Years of Life",
       "publisher": "medRxiv",
-      "releaseDate": "2026-05-06",
+      "releaseDate": "2026",
       "url": "https://www.medrxiv.org/content/10.64898/2026.05.04.26352413v1.full",
-      "summary": "Mapped high-resolution influenza antibody dynamics across infants' first two years of life following maternal antibody waning, vaccinations, and infections."
+      "summary": "(Under review at Nature Immunology)"
     },
     {
       "name": "Deep learning untangles the resistance mechanism of p53 reactivator in lung cancer cells",
