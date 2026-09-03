@@ -39,7 +39,7 @@
     {
       "institution": "University of California San Diego (UCSD)",
       "location": "La Jolla, CA, U.S.A.",
-      "url": "https://bioinformatics.ucsd.edu/",
+      "url": "",
       "area": "Bioinformatics and Systems Biology",
       "studyType": "Ph.D.",
       "startDate": "2025-09-01",
@@ -78,43 +78,6 @@
       "endDate": "2016-06-01",
       "score": "10",
       "courses": ["Studied abroad for high school in the United States"]
-    }
-  ],
-  "awards": [
-    {
-      "title": "SPARK Award Finalist",
-      "date": "2026",
-      "awarder": "La Jolla Institute for Immunology",
-      "url": "",
-      "summary": ""
-    },
-    {
-      "title": "Top honor in Life Science from Handong Global University (1%)",
-      "date": "2020",
-      "awarder": "",
-      "url": "",
-      "summary": ""
-    },
-    {
-      "title": "Academic Excellence Scholarship",
-      "date": "2018,2019,2020",
-      "awarder": "",
-      "url": "",
-      "summary": ""
-    },
-    {
-      "title": "Software Mileage Scholarship",
-      "date": "2020",
-      "awarder": "",
-      "url": "",
-      "summary": ""
-    },
-    {
-      "title": "Excellence prize at Software Festival held by Handong University",
-      "date": "2019",
-      "awarder": "",
-      "url": "",
-      "summary": "Convergence Research Contest & SW Problem-Solving Idea Contest"
     }
   ],
   "publications": [
@@ -188,6 +151,43 @@
       "startDate": "2020-01-01",
       "endDate": "2020-02-01",
       "url": ""
+    }
+  ],
+  "awards": [
+    {
+      "title": "SPARK Award Finalist",
+      "date": "2026",
+      "awarder": "La Jolla Institute for Immunology",
+      "url": "",
+      "summary": ""
+    },
+    {
+      "title": "Top honor in Life Science from Handong Global University (1%)",
+      "date": "2020",
+      "awarder": "",
+      "url": "",
+      "summary": ""
+    },
+    {
+      "title": "Academic Excellence Scholarship",
+      "date": "2018,2019,2020",
+      "awarder": "",
+      "url": "",
+      "summary": ""
+    },
+    {
+      "title": "Software Mileage Scholarship",
+      "date": "2020",
+      "awarder": "",
+      "url": "",
+      "summary": ""
+    },
+    {
+      "title": "Excellence prize at Software Festival held by Handong University",
+      "date": "2019",
+      "awarder": "",
+      "url": "",
+      "summary": "Convergence Research Contest & SW Problem-Solving Idea Contest"
     }
   ],
   "skills": [
