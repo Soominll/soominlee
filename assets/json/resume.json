@@ -24,6 +24,15 @@
   },
   "work": [
     {
+      "name": "La Jolla Institute for Immunology",
+      "position": "Graduate student researcher",
+      "url": "https://www.lji.org/",
+      "startDate": "2025-09-01",
+      "endDate": "",
+      "summary": "Laboratory of Tal Einav",
+      "highlights": []
+    },
+    {
       "name": "Inocras Inc.",
       "position": "Computational Genomics Center – Pipeline Development Team",
       "url": "https://inocras.com",
